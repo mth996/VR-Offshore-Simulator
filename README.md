@@ -6,7 +6,7 @@ An immersive **industrial safety and offshore training simulation** developed in
 
 ## Overview
 
-Developed for **InfoSoft Solution Group** as an industrial VR training simulation focused on offshore safety procedures, hazard awareness, PPE compliance, and interactive equipment training.
+Developed for **Solution Group** as an industrial VR training simulation focused on offshore safety procedures, hazard awareness, PPE compliance, and interactive equipment training.
 
 VR Offshore Simulator recreates interactive offshore training scenarios where the player can perform safety-oriented tasks inside a virtual industrial environment. The project combines procedural task logic with physical VR interactions and an embodied player system to create a practical training experience rather than a passive walkthrough.
 
